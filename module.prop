@@ -1,7 +1,7 @@
 id=iOS_Emoji_KSU
-name=18.0 iOS Emoji font
-version=18.0
-versionCode=200
+name=2.051 iOS Emoji font
+version=2.051
+versionCode=2051
 author=N4bi10p
-description=iOS Emojis for KernelSU!
-minMagisk=20200
+description=Dual-compatible iOS-style emoji module for Magisk and KernelSU (Noto 2.051).
+minMagisk=20400
