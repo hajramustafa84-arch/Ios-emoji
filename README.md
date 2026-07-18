@@ -23,3 +23,4 @@ Realme x7 Max 5g(A14)
 ## Screenshot
 <img src="https://github.com/n4bi10p/Ios-emoji/blob/main/emojiss.jpg" alt="iOS Emojis on Android" width="400" />  
 Example of iOS emojis displayed on an Android device.
+i want ios emojis on my tecno camon 40 
